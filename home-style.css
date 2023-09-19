@@ -519,6 +519,11 @@ body{
 					top: 300px; 
 					padding-top: 40px; 
 					}
+					.block-h>a{
+					text-decoration: none; 
+					color: black; 
+					font-size: 30px;
+					}
 					.block-h h1{
 					font-size: 30px; 
 					background-color: #FFC312; 
