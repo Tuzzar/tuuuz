@@ -553,7 +553,7 @@ body{
 					color: #1289A7; 
 					}
 					.hpp a{
-					tex-decoration: none;
+					decoration: none;
 					color: green;
 					font-size: 16px; 
 					}
