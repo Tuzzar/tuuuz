@@ -548,9 +548,14 @@ body{
 					left: 49%; 
 					top: 74px; 
 					}
-					.hpp p{
+					.hpp p , {
 					font-size: 16px; 
 					color: #1289A7; 
+					}
+					.hpp a{
+					tex-decoration: none;
+					color: green;
+					font-size: 16px; 
 					}
 					
 		/* Block- I */
